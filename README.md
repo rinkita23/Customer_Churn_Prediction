@@ -98,7 +98,3 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 **Rinkita Ramrakhiyani**
-
-
-
-If you'd like, I can also show you **3 small GitHub improvements that make your profile look like a professional ML portfolio (very useful for internships)**.
